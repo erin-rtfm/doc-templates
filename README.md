@@ -1,9 +1,12 @@
 # About
 The Template repo contains documentation templates open for community contribution. Please update the templates to make them more broadly useful across different kinds of projects and to address additional documentation concerns. 
 
-__*Feel free to use these templates on your own project to help documentarians who may wish to contribute.*__
+# Using the Templates
+Feel free to use these templates on your own project to help documentarians who want to contribute. There are instructions within the template to help you customize it to your project. 
 
-# Contributing Documentation
+Make sure you retain the license at the bottom of the template.
+
+# Contributing to the Templates Project
 You don't need permission to clone the template repo. Please pull it down, take a look at the code, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
 
 If you want to add or edit templates, create or update the necessary files and submit a [pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_creating_a_pull_request). You also don't need permission to submit a pull request.
@@ -66,5 +69,5 @@ You can find more commit message best practices [here](https://chris.beams.io/po
   - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Dillinger Online Markdown Editor](https://dillinger.io/)
 
-# Readme License
+# License
 All items in this repo are licensed under CC BY-SA 4.0, attributable to [Erin Grace](https://readthefriendlymanual.com/).
