@@ -12,7 +12,7 @@ You don't need permission to clone the template repo. Please pull it down, take 
 If you want to add or edit templates, create or update the necessary files and submit a [pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_creating_a_pull_request). You also don't need permission to submit a pull request.
 
 ## Documentation Location and Format
-You can [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) any files in the repo. Please limit edits on the main Readme to grammar, spelling, and punctuation updates.
+You can [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) any files in the repo. __Limit edits on the main Readme to grammar, spelling, and punctuation updates.__
 
 If you want to submit documentation, do so using Markdown. To create a Markdown file, save a text file with the .md extension. Use [Git's cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn more about Markdown formatting. To test drive your syntax, use the [Dillinger editor](https://dillinger.io/).
 
@@ -26,7 +26,8 @@ __DO:__
 - Use a casual, informative tone
 
 __AVOID:__
-- Using "please" and other requesting or pleading language
+- "Please" and other requesting or pleading language
+- Passive voice
 
 ### Supplementary Style Guide
 Additionally, for identity language and concerns, this project uses the [Responsible Communication Style Guide](https://rcstyleguide.com/) as a supplement. If you can't access the RCGS, the most important takeaway is to be careful of how you use language related to identity. For example:
