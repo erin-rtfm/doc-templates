@@ -2,8 +2,8 @@
 # About This Template
 -----READ ME FIRST-----
 
-This Readme template is designed to help prospective technical writers on your project get their bearings and begin
-to contribute. To customize it for your project:
+This Readme template is designed to help prospective technical writers on your project get their bearings and 
+begin to contribute. To customize it for your project:
 
 1. Update the sections below. Items you need to customize are marked as code with backticks. Fill in the correct 
 information or choose from the provided options. 
