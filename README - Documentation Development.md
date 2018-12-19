@@ -19,9 +19,9 @@ Describe your project in two or three sentences. Talk about what problem the pro
 typical users are.
 
 For example: "HAL9000 is the aritificial intelligence component of the _Discovery One_ spacecraft. He is designed
-to maintain ship functions, including navigation and life support, as well as to engage the ship's crew with games 
-and conversation. Although HAL's primary users are the _Discovery One_ crew, HAL also interacts with and can 
-recieve orders from Mission Control on Earth.
+to maintain ship functions, including navigation and life support, as well as to engage the ship's crew with 
+games and conversation. Although HAL's primary users are the _Discovery One_ crew, HAL also interacts with and 
+can recieve orders from Mission Control on Earth.
 ```
 
 # Useful Links
