@@ -36,7 +36,9 @@ orders from Mission Control on Earth.
   - [Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
   - [Getting Help](https://git-scm.com/book/en/v1/Getting-Started-Getting-Help)
 - [Commit message best practices](https://chris.beams.io/posts/git-commit/)
-- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Markdown
+  - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [Dillinger Online Markdown Editor](https://dillinger.io/)
 - `Any other links that are helpful for a beginner`
 
 # Contributing Documentation
@@ -47,7 +49,9 @@ If you want to add documentation or code back into the project, create or update
 ## Documentation Location and Format
 [Add](https://help.github.com/articles/creating-new-files/) files to the `folder name` folder. (If you prefer, you can [add files using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/). You can also [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) files already in the folder.
 
-Submit documentation in `Choose one: HTML, Markdown (*.md), PDF, other file format`.
+Submit documentation in `Choose one: HTML, Markdown (*.md), PDF, other file format`. 
+
+`If your project uses Markdown for documentation:` To create a Markdown file, save a text file with the .md extension. Use [Git's cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn more about Markdown formatting. To test dive your syntax, use the [Dillinger editor](https://dillinger.io/).
 
 ## Style Guide
 `If you already have a documentation style guide:` The style guide is [here]`(URL)`.
