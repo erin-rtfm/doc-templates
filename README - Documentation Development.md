@@ -67,7 +67,7 @@ Submit documentation in `Choose one: HTML, Markdown, PDF, other file format`.
 ## Commit Messages
 When you [commit](https://git-scm.com/book/en/v1/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes) changes, Git asks for a commit message. The commit message lets other developers, documentarians, and Future You quickly get a sense of what changes you added to the project in that commit.
 
-The commit message consists of a short description and a longer summary of changes. In the short description, use no more than `#` characters. In the body, go into more detail about the changes you made. Bearing in mind that the audience is other developers, documentarians, and Future You, go into as much detail as you need to make changes clear. 
+The commit message consists of a short description and a longer summary of changes. In the short description, use no more than `#` characters. In the summary, go into more detail about the changes you made. Bearing in mind that the audience is other developers, documentarians, and Future You, go into as much detail as you need to make changes clear. 
 
 `If you have specific standard practices around commit messages on your project, detail them here.`
 
