@@ -1,8 +1,17 @@
+```
 # About This Template
-This Readme template is designed to help prospective technical writers on your project get their bearings and begin to contribute. To customize it for your project:
+-----READ ME FIRST-----
 
-1. Update the sections below. Items you need to customize are marked as code with backticks. Fill in the correct information or choose from the provided options. Discard any sections that don't make sense for your project. Be sure to remove the backticks around the words and sections after you're done.
-2. Remove this section (_About this template_) before publishing the Readme on your repo.
+This Readme template is designed to help prospective technical writers on your project get their bearings and begin to 
+contribute. To customize it for your project:
+
+1. Update the sections below. Items you need to customize are marked as code with backticks. Fill in the correct information or
+choose from the provided options. 
+2. Discard any sections that don't make sense for your project. 
+3. Discard any unused code sections, including this section (About This Template).
+4. Post the Readme on your repo. Be sure to use a filename that distinguishes it from the main Readme and calls attention to the
+fact that it is documentation-specific.
+```
 
 # About `Project Name`
 `Describe your project in two or three sentences. Talk about what problem the project aims to solve and who the typical users are.`
