@@ -1,4 +1,4 @@
-# About this template
+# About This Template
 This Readme template is designed to help prospective technical writers on your project get their bearings and begin to contribute. To customize it for your project:
 
 1. Update the sections below. Items you need to customize are marked as code with backticks. Fill in the correct information or choose from the provided options. Discard any sections that don't make sense for your project. Be sure to remove the backticks around the words and sections after you're done.
@@ -16,7 +16,9 @@ This Readme template is designed to help prospective technical writers on your p
   - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
   - [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   - [Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+  - [Getting Help](https://git-scm.com/book/en/v1/Getting-Started-Getting-Help)
 - [Commit message best practices](https://chris.beams.io/posts/git-commit/)
+- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - `Any other links that are helpful for a beginner`
 
 # Contributing Documentation
@@ -41,8 +43,13 @@ Submit documentation in `Choose one: HTML, Markdown (*.md), PDF, other file form
 `For all projects, regardless of style guide choices:` If you have questions, concerns, or suggestions regarding the style, `Choose one: contact the project (and provide an email address), discuss it in a specific location (and provide a link to that location), other action as appropriate to your project`.
 
 ## Commit Messages
-One liner that's quick (under 100 characters)
-More detail in body
+When you [commit](https://git-scm.com/book/en/v1/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes) changes, Git asks for a commit message. The commit message lets other developers, documentarians, and Future You quickly get a sense of what changes you added to the project in that commit.
+
+The commit message consists of a short description and a longer summary of changes. In the short description, use no more than `#` characters. In the body, go into more detail about the changes you made. Bearing in mind that the audience is other developers, documentarians, and Future You, go into as much detail as you need to make changes clear. 
+
+`If you have specific standard practices around commit messages on your project, detail them here.`
+
+You can find more commit message best practices [here](https://chris.beams.io/posts/git-commit/).
 
 # Readme Template License
 Documentation development Readme customized from Documentation Readme template by [Erin Grace](https://readthefriendlymanual.com/). CC BY-SA 4.0
