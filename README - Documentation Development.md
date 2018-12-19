@@ -73,5 +73,5 @@ The commit message consists of a short description and a longer summary of chang
 
 You can find more commit message best practices [here](https://chris.beams.io/posts/git-commit/).
 
-# Readme Template License
+# Readme License
 This Readme was created with the Documentation Readme template by [Erin Grace](https://readthefriendlymanual.com/). CC BY-SA 4.0
