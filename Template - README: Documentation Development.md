@@ -73,6 +73,8 @@ The commit message consists of a short description and a longer summary of chang
 
 You can find more commit message best practices [here](https://chris.beams.io/posts/git-commit/).
 
+## Pull Requests
+
 ## Review Process
 `fill`
 
