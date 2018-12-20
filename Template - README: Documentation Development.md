@@ -41,12 +41,12 @@ orders from Mission Control on Earth.
   - [Dillinger Online Markdown Editor](https://dillinger.io/)
 - `Any other links that are helpful for a beginner`
 
-# Contributing Documentation
+# Contribute Documentation
 You do not need permission to clone the `Project` repo. Please pull it down, take a look at the code, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
 
 If you want to add documentation or code back into the project, create or update the necessary files and submit a [pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_creating_a_pull_request). You also don't need permission to submit a pull request.
 
-## Documentation Location and Format
+## Location and Format
 [Add](https://help.github.com/articles/creating-new-files/) files to the `folder name` folder. (If you prefer, you can [add files using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/). You can also [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) files already in the folder.
 
 Submit documentation in `Choose one: HTML, Markdown, PDF, other file format`. 
