@@ -44,7 +44,7 @@ orders from Mission Control on Earth.
 # Contribute Documentation
 You do not need permission to clone the `Project` repo. Please pull it down, take a look at the code, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
 
-If you want to add documentation or code back into the project, create or update the necessary files and submit a [pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_creating_a_pull_request). You also don't need permission to submit a pull request.
+If you want to add documentation or code back into the project, create or update the necessary files and submit a [pull request](#pullrequest). You also don't need permission to submit a pull request.
 
 ## Location and Format
 [Add](https://help.github.com/articles/creating-new-files/) files to the `folder name` folder. (If you prefer, you can [add files using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/). You can also [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) files already in the folder.
@@ -73,7 +73,9 @@ The commit message consists of a short description and a longer summary of chang
 
 You can find more commit message best practices [here](https://chris.beams.io/posts/git-commit/).
 
+<a name="pullrequests"></a>
 ## Pull Requests
+
 
 ## Review Process
 `fill`
