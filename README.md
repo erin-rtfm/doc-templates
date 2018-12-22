@@ -1,17 +1,17 @@
 # About
 The Doc Template repo contains documentation templates open for community use and contribution. Please update the templates to make them more broadly useful across different kinds of projects and to address additional documentation concerns. 
 
-# Using the Templates
+# Use the Templates
 Feel free to use this template on your own project to help documentarians who want to contribute to it. There are instructions within the template to help you customize it to your project. 
 
 Make sure you retain the license at the bottom of the template.
 
-# Contributing to the Templates Project
+# Contribute to the Templates Project
 You don't need permission to clone the Doc Template repo. Please pull it down, take a look at it, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
 
 If you want to add or edit templates, create or update the necessary files and submit a [pull request](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_creating_a_pull_request). You also don't need permission to submit a pull request.
 
-## Documentation Location and Format
+## Location and Format
 You can [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) any files in the repo. __Limit edits on the main Readme to grammar, spelling, and punctuation updates.__
 
 If you want to submit a template, do so using Markdown. To create a Markdown file, save a text file with the .md extension and submit a pull request to add it to the repo. Alternatively, click _Create new file_ on the main repo page (to the left of the green _Clone or download_ button). Use [Git's cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn more about Markdown formatting. To test drive your syntax, use the [Dillinger editor](https://dillinger.io/).
