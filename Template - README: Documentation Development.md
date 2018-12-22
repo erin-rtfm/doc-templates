@@ -35,6 +35,7 @@ orders from Mission Control on Earth.
   - [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   - [Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
   - [Getting Help](https://git-scm.com/book/en/v1/Getting-Started-Getting-Help)
+  - [Creating an Issue](https://help.github.com/articles/creating-an-issue/)
 - [Commit message best practices](https://chris.beams.io/posts/git-commit/)
 - Markdown
   - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -84,8 +85,8 @@ During a review, `Project maintainer` looks at your changes and confirms they ar
 3. **Comment only.** This happens when there were some issues with your changes that need to be addressed before `Project maintainer` can accept the changes. You will see the comment as a reply to your pull request. _Your changes will not go live until you make the requested changes and those additional changes are accepted._
 4. **Reject all changes.** This happens when there are big issues with your changes that make them inappropriate for the project. `Include the following if true: Project maintainer will usually leave comments detailing why your changes were rejected.` _Your changes will not go live._
 
-## Submitting Bugs
-`fill`
+# Submit Issues
+If you find an issue with the code or documentation that you can't or don't want to address yourself, [submit an issue](https://help.github.com/articles/creating-an-issue/). You can also submit an issue to make a feature or enhancement request.
 
 # Readme License
 This Readme was created with the Documentation Readme template by [Erin Grace](https://readthefriendlymanual.com/). CC BY-SA 4.0
