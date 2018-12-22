@@ -4,7 +4,7 @@ The Doc Template repo contains documentation templates open for community use an
 Erin Grace is the owner/maintainer of this repo. If you have questions, concerns, or suggestions, leave a comment or contact me at [erin.rtfm@gmail.com](mailto:erin.rtfm@gmail.com).
 
 # Use the Templates
-Feel free to use this template on your own project to help documentarians who want to contribute to it. There are instructions within the template to help you customize it to your project. 
+Feel free to use [the template](https://github.com/erin-rtfm/doc-templates/blob/master/Template%20-%20README:%20Documentation%20Development.md) on your own project to help documentarians who want to contribute to it. There are instructions within the template to help you customize it to your project. 
 
 Make sure you retain the license at the bottom of the template.
 
