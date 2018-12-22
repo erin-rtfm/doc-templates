@@ -79,9 +79,10 @@ A pull request is your request for the `Project` to pull your changes in. You do
 
 During a review, `Project maintainer` looks at your changes and confirms they are appropriate for the project and match the commit messages you submitted. `If you have a more detailed process, outline or link to it here.` After `Project maintainer` is done with their review, they can do one of three things:
 
-1. **Accept all changes without comment.** This happens when your changes had no issues. Your contributions will go live immediately.
-2. **Accept all changes with comment.** This happens when there are small issues with your changes that don't affect their viability for the project. For example, a few minor spelling errors. Comments will appear as a reply to your pull request. Your contributions will go live immediately.
-3. **Reject all changes.** This happens when there are big issues with your changes that make them inappropriate for the project. `Include the following if true: Project maintainer will usually leave comments detailing why your changes were rejected.`
+1. **Accept all changes without comment.** This happens when your changes had no issues. _Your contributions will go live immediately._
+2. **Accept all changes with comment.** This happens when there are small issues with your changes that don't affect their viability for the project. For example, a few minor spelling errors. You will see comments as a reply to your pull request. _Your contributions will go live immediately._
+3. **Comment only.** This happens when there were some issues with your changes that need to be addressed before `Project maintainer` can accept the changes. You will see the comment as a reply to your pull request. _Your changes will not go live until you make the requested changes and those additional changes are accepted._
+4. **Reject all changes.** This happens when there are big issues with your changes that make them inappropriate for the project. `Include the following if true: Project maintainer will usually leave comments detailing why your changes were rejected.` _Your changes will not go live._
 
 ## Submitting Bugs
 `fill`
