@@ -75,10 +75,13 @@ You can find more commit message best practices [here](https://chris.beams.io/po
 
 <a name="pullrequests"></a>
 ## Pull Requests
+A pull request is your request for the `Project` to pull your changes in. You don't need permission to make a pull request. After you submit your pull request, `Project maintainer, either a specific person or title` reviews your changes. 
 
+During a review, `Project maintainer` looks at your changes and confirms they are appropriate for the project and match the commit messages you submitted. `If you have a more detailed process, outline or link to it here.` After `Project maintainer` is done with their review, they can do one of three things:
 
-## Review Process
-`fill`
+1. **Accept all changes without comment.** This happens when your changes had no issues. Your contributions will go live immediately.
+2. **Accept all changes with comment.** This happens when there are small issues with your changes that don't affect their viability for the project. For example, a few minor spelling errors. Comments will appear as a reply to your pull request. Your contributions will go live immediately.
+3. **Reject all changes.** This happens when there are big issues with your changes that make them inappropriate for the project. `Include the following if true: Project maintainer will usually leave comments detailing why your changes were rejected.
 
 ## Submitting Bugs
 `fill`
