@@ -81,7 +81,7 @@ During a review, `Project maintainer` looks at your changes and confirms they ar
 
 1. **Accept all changes without comment.** This happens when your changes had no issues. Your contributions will go live immediately.
 2. **Accept all changes with comment.** This happens when there are small issues with your changes that don't affect their viability for the project. For example, a few minor spelling errors. Comments will appear as a reply to your pull request. Your contributions will go live immediately.
-3. **Reject all changes.** This happens when there are big issues with your changes that make them inappropriate for the project. `Include the following if true: Project maintainer will usually leave comments detailing why your changes were rejected.
+3. **Reject all changes.** This happens when there are big issues with your changes that make them inappropriate for the project. `Include the following if true: Project maintainer will usually leave comments detailing why your changes were rejected.`
 
 ## Submitting Bugs
 `fill`
