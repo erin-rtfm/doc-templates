@@ -76,7 +76,7 @@ You can find more commit message best practices [here](https://chris.beams.io/po
 
 <a name="pullrequests"></a>
 ## Pull Requests
-A pull request is your request for the `Project` to pull your changes in. You don't need permission to make a pull request. After you submit your pull request, `Project maintainer, either a specific person or title` reviews your changes. 
+A pull request is your request for the `Project` to pull in your changes. You don't need permission to make a pull request. After you submit your pull request, `Project maintainer, either a specific person or title` reviews your changes. 
 
 During a review, `Project maintainer` looks at your changes and confirms they are appropriate for the project and match the commit messages you submitted. `If you have a more detailed process, outline or link to it here.` After `Project maintainer` is done with their review, they can do one of three things:
 
