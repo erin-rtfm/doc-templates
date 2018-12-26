@@ -40,7 +40,7 @@ orders from Mission Control on Earth.
 - Markdown
   - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Dillinger Online Markdown Editor](https://dillinger.io/)
-- `Any other links that are helpful for a beginner`
+- `Any other links that are helpful for a beginner on your project`
 
 # Contribute Documentation
 You do not need permission to clone the `Project` repo. Please pull it down, take a look at the code, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
