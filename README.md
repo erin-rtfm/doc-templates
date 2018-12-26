@@ -60,7 +60,7 @@ You can find more commit message best practices [here](https://chris.beams.io/po
 ## Pull Requests
 A pull request is your request for the Doc Template repo to pull in your changes. You don't need permission to make a pull request. After you submit your pull request, Erin reviews your changes. 
 
-During a review, I looks at your changes and confirm they're appropriate for the project and match the commit messages you submitted. After I'm done with the review, I'll do one of three things:
+During a review, I look at your changes and confirm they're appropriate for the project and match the commit message you submitted. After I'm done with the review, I'll do one of three things:
 
 1. **Accept all changes without comment.** This happens when your changes had no issues. _Your contributions will go live immediately._
 2. **Accept all changes with comment.** This happens when there are small issues with your changes that don't affect their viability for the project. For example, a few minor spelling errors. You will see comments as a reply to your pull request. _Your contributions will go live immediately._
