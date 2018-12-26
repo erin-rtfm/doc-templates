@@ -58,7 +58,7 @@ You can find more commit message best practices [here](https://chris.beams.io/po
 
 <a name="pullrequests"></a>
 ## Pull Requests
-A pull request is your request for the Doc Template repo to pull your changes in. You don't need permission to make a pull request. After you submit your pull request, Erin reviews your changes. 
+A pull request is your request for the Doc Template repo to pull in your changes. You don't need permission to make a pull request. After you submit your pull request, Erin reviews your changes. 
 
 During a review, I looks at your changes and confirm they're appropriate for the project and match the commit messages you submitted. After I'm done with the review, I'll do one of three things:
 
