@@ -43,7 +43,7 @@ orders from Mission Control on Earth.
 - `Any other links that are helpful for a beginner on your project`
 
 # Contribute Documentation
-You do not need permission to clone the `Project` repo. Please pull it down, take a look at the code, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
+You do not need permission to clone the `Project` repo. Pull it down, take a look at the code, [fork](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project#_forking_projects), and so on as you wish. 
 
 If you want to add documentation or code back into the project, create or update the necessary files and submit a [pull request](#pullrequests). You also don't need permission to submit a pull request.
 
