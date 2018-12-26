@@ -41,7 +41,7 @@ Additionally, for identity language and concerns, this project uses the [Respons
 | Ageist | "So easy even your grandma can do it" | Easy for inexperienced users |
 | Ageist | Digital native | Digital savvy |
 | Appropriative | Tribe | Friends, compatriots |
-| Appropriative | Kosher | Correct, aboveboard |
+| Appropriative | OG | Original |
 | Gendered | "Universal" he/him | They/them |
 | Gendered | Male/female connectors | Plug/socket, cord/port |
 | Racially charged | Master/slave | Primary/replica |
